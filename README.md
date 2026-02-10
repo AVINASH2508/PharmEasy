@@ -1,5 +1,5 @@
 # Ex08 Pharmacy Website using Bootstrap
-## Date:09-02-2026
+## Date:08-02-2026
 
 ## AIM:
 To design a responsive and visually appealing Pharmacy web page using Bootstrap, featuring a navigation bar, categorized product panels with images and descriptions, and a footer, ensuring easy navigation, user accessibility, and professional layout suitable for an online medical or wellness platform.
