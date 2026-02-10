@@ -240,7 +240,8 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-<img width="1888" height="994" alt="Screenshot 2026-02-10 084945" src="https://github.com/user-attachments/assets/32523e9f-360f-4e81-aa55-41a970f651fb" />
+![WhatsApp Image 2026-02-10 at 9 24 05 AM](https://github.com/user-attachments/assets/b7495921-7ee7-4eb5-ae37-a5a701666b47)
+
 
 
 ## RESULT:
